@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a293efbef53840c46a0c25be70e96e3c, type: 3}
+  m_Name: Quest_kill_Snake
+  m_EditorClassIdentifier: 
+  goalType: 0
+  gatherGoal:
+    description: 
+    completed: 0
+    experienceReward: 0
+    curretnAmount: 0
+    requiredAmount: 0
+    qestGoalType: 0
+    itemId: 0
+    myquest: {fileID: 0}
+  KillGoalData:
+    description: 
+    completed: 0
+    experienceReward: 20
+    curretnAmount: 0
+    requiredAmount: 10
+    qestGoalType: 0
+    enemyId: 11
+    myquest: {fileID: 0}
